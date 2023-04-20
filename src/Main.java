@@ -1,5 +1,9 @@
+//Tiffany Morrow
+//Sri Vaishnavi Singari
+//Consultation by Dan Chovanes
+//CPSC 374 Whitfield
+//Binary Tree Assignment - Dailey's Numbers
 import java.util.*;
-
 public class Main {
     public static void main(String[] args){
         int depth = 0, traversal = 0;
